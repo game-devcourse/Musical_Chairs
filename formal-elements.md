@@ -15,6 +15,9 @@
 המשחק זמין במחשב.
 
 
+![תמונה של WhatsApp‏ 2024-01-09 בשעה 22 14 24_f9bf5cf0](https://github.com/game-devcourse/Musical_Chairs/assets/92533182/6872f92f-a98c-4e2c-87c9-28d07396174e)
+
+
 ## רכיבים רשמיים
 
 ### 1. שחקנים
